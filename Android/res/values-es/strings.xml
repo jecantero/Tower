@@ -421,7 +421,7 @@
     <string name="waypointType_EPM">EPM</string>
     <string name="waypointType_Land">Land(aterrizar)</string>
     <string name="waypointType_Loiter">Loiter</string>
-    <string name="waypointType_ROI">óde Interés</string>
+    <string name="waypointType_ROI">Región de Interés</string>
     <string name="waypointType_RTL">Volver al inicio(RTL)</string>
     <string name="waypointType_Set_Servo">Poner Servo</string>
     <string name="waypointType_SplineWaypoint">Curva waypoint</string>
