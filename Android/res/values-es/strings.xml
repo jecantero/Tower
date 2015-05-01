@@ -380,7 +380,7 @@
     <string name="status_disconnecting">Desconectando...</string>
     <string name="status_file_opened">Archivo abierto</string>
     <string name="status_waiting_for_gps">Esperando GPS...</string>
-    <string name="storage_folder">Carpeta guardado</string>
+    <string name="storage_folder">Caer</string>
     <string name="structure_scan_description">Mapear un edificio</string>
     <string name="structure_scan_start_alt">Comenzar altitud</string>
     <string name="telemetry_default_value">0.0</string>
@@ -393,7 +393,7 @@
     <string name="unit_system_entry_metric">Sistema Métrico</string>
     <string name="upload_mission">Subir Misión</string>
     <string name="upload_params">Subir Parametros</string>
-    <string name="usage_statistics">Usar Estadisticas</string>
+    <string name="usage_statistics">Usar Estadistícas</string>
     <string name="user_autopan_long_press">Pulsacion larga para encuadrar usuario</string>
     <string name="username">Nombre Usuario</string>
     <string name="version">Versión</string>
